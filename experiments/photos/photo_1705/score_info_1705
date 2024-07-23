@@ -1,0 +1,22 @@
+
+max of curr_solution = 12.97390412397879
+min of curr_solution = -13.66105995805876
+
+length of best_scores_in_generations_log = 1702
+best_score_solution = 
+[-24.000396944388882, array([ 2.52981029, -4.46936688,  0.46289065, ...,  3.22948492,
+        2.49929165,  2.29808054])]
+
+curr_solution = 
+[ 1.69326884 -5.16538552 -1.91637691 ...  4.12263787  2.87354996
+ -0.58676386]
+
+=========================== SCORE
+neg_J = -37.03879498050462
+RMSE = 110.85452077969848
+mean_error = -16.247993095616405
+asymetric_error = 263.99728248894866
+max_total_run_out = 45263.29999998822
+run_out_deviation_RMSE = 14385.863732976548
+switc num =  [1, 8, 1, 4, 2]
+16
